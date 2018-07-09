@@ -1,0 +1,3 @@
+<?php
+//000000086400a:2:{i:0;a:10:{s:7:"goodsId";i:9;s:9:"goodsName";s:12:"进口红提";s:8:"goodsImg";s:38:"upload/goods/2016-12/585fd68e25d1e.jpg";s:7:"goodsSn";s:15:"148267577224604";s:10:"goodsStock";i:999;s:7:"saleNum";i:1;s:9:"shopPrice";s:5:"12.00";s:11:"marketPrice";s:5:"15.00";s:11:"appraiseNum";i:0;s:8:"visitNum";i:4;}i:1;a:10:{s:7:"goodsId";i:1;s:9:"goodsName";s:92:"海南蜜宝红心火龙果2.5kg蜜宝红心火龙果是非常受欢迎的健康水果之一";s:8:"goodsImg";s:38:"upload/goods/2016-12/585fc6537e1b7.png";s:7:"goodsSn";s:15:"148267147080903";s:10:"goodsStock";i:5995;s:7:"saleNum";i:7;s:9:"shopPrice";s:5:"69.00";s:11:"marketPrice";s:5:"75.00";s:11:"appraiseNum";i:1;s:8:"visitNum";i:13;}}
+?>

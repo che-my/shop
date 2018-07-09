@@ -1,0 +1,3 @@
+<?php
+//000000000000a:2:{i:0;a:10:{s:7:"goodsId";i:30;s:9:"goodsName";s:70:"酒仙网52度泸州老窖浓香兰瓷500ml*6 整箱白酒高度白酒";s:8:"goodsImg";s:38:"upload/goods/2016-12/585fef9f94efa.jpg";s:7:"goodsSn";s:15:"148268221651564";s:10:"goodsStock";i:98;s:7:"saleNum";i:2;s:9:"shopPrice";s:6:"356.00";s:11:"marketPrice";s:6:"678.00";s:11:"appraiseNum";i:2;s:8:"visitNum";i:7;}i:1;a:10:{s:7:"goodsId";i:28;s:9:"goodsName";s:71:"酒仙网 53度茅台王子500ml六瓶装整箱白酒酱香贵州名酒";s:8:"goodsImg";s:38:"upload/goods/2016-12/585feea43c69a.jpg";s:7:"goodsSn";s:15:"148268198287204";s:10:"goodsStock";i:99;s:7:"saleNum";i:1;s:9:"shopPrice";s:6:"522.00";s:11:"marketPrice";s:6:"984.00";s:11:"appraiseNum";i:1;s:8:"visitNum";i:0;}}
+?>
